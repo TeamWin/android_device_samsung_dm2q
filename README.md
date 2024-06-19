@@ -7,9 +7,7 @@
 # Special Thanks 
 [jrkruse](https://xdaforums.com/m/jrkruse.1949695/) For userdata aio script.
 
-[mohammad.afaneh92](https://github.com/afaneh92) For prebuilt image of dm2q.
-
-[Edward](https://github.com/edward0181) For help me.
+[Edward](https://github.com/edward0181) For help.
 
 ## Clone repo
 ```bash 
